@@ -1,2 +1,2 @@
-# Histogram
-Patria Histogram Program
+# Histogram program
+To do database experiments
